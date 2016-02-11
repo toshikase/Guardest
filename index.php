@@ -159,7 +159,7 @@
 
     <link
       rel="shortcut icon"
-      href="//instapage-static.s3.amazonaws.com/favicon.ico"
+      href="img/logo.png"
       type="image/ico"
     />
 
