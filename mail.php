@@ -3,8 +3,8 @@ mb_language("en");
 mb_internal_encoding("UTF-8");
 
 $field_email = $_POST['email'];
-$mail_to = 'kaseda@sendee.jp';
-$subject = 'Message from Belp Landing Page';
+$mail_to = 'yusuke.mukoyama@gmail.com';
+$subject = 'Message from EthLP Landing Page';
 $body_message = 'mail-address: '.$field_email."\n";
 $headers = 'From: '.$field_email."\r\n";
 $headers .= 'Reply-To: '.$field_email."\r\n";
