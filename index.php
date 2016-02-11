@@ -1557,7 +1557,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
 
 <div class="contents">
             <img
-        src="img/dollar.png"
+        src="img/yen.png"
                   style="height: 100%; width: 100%; margin-top: 0px;"
                 alt=""
       />
