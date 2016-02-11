@@ -1,35 +1,25 @@
 
 <!DOCTYPE html>
 <html>
-
   
   <head>
-              <meta name="robots" content="noindex, nofollow" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <link rel="canonical" href="http://www.ethfy.com">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-          <title>EthLp</title>
+
+    <title>日本円でEthereumを購入できる販売所 | Ethfy</title>
           
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-
+    <meta name="description" content="日本円で誰でも安全かつ簡単にEthereumを購入できる日本国内に拠点を持つ販売所です。2016年3月末のリリースを予定しております。" />
     
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Ether1" />
-    <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. 1" />
-    <meta property="og:site_name" content="Ether1" />
-           <meta property="og:url" content="http://Ethfy2.instapage.com" />
-    
-                  
-        <meta property="og:image" content="http://dfsm9194vna0o.cloudfront.net/1110628-0-icon1.png" />
-        <meta property="og:image:secure_url" content="https://dfsm9194vna0o.cloudfront.net/1110628-0-icon1.png" />
-              
-        <meta property="og:image" content="http://dfsm9194vna0o.cloudfront.net/1110631-0-icon3.png" />
-        <meta property="og:image:secure_url" content="https://dfsm9194vna0o.cloudfront.net/1110631-0-icon3.png" />
-              
-        <meta property="og:image" content="http://dfsm9194vna0o.cloudfront.net/1110847-0-iconD.png" />
-        <meta property="og:image:secure_url" content="https://dfsm9194vna0o.cloudfront.net/1110847-0-iconD.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Ethfy.com" />
+    <meta property="og:site_name" content="Ethfy.com">
+    <meta property="og:url" content="http://ethfy.com">
+    <meta property="og:description" content="日本円で誰でも安全かつ簡単にEthereumを購入できる日本国内に拠点を持つ販売所です。2016年3月末のリリースを予定しております。" />
+    <meta property="og:image" content="img/logo.png" />
+    <meta property="fb:app_id" content="458674240998394" />
           
           <!-- font injector --> 
     <link type="text/css" rel="stylesheet" media="screen, print" href="css/css1.css" />
@@ -1347,6 +1337,17 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
         
     }
 </style>          
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68397059-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
     
         
                             
