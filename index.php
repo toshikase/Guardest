@@ -1512,22 +1512,18 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   id="element-7"
 >
 
-<div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#43464c">セキュリティ万全</font></p></h1></div>
+<div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#43464c">セキュリティ万全</font></p></h1></div></div>
+<div class="page-element widget-container page-element-type-circle widget-circle " id="element-3">
+
+<div class="circle" style="box-sizing: border-box;width: 100%; height: 100%; background-color: transparent; opacity: 1; filter:alpha(opacity=100); background-image: url('//dfsm9194vna0o.cloudfront.net/1070267-0-icon.png'); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">  
 </div>
-
-                                      <div
-  class="page-element widget-container page-element-type-circle widget-circle "
-  id="element-3"
->
-
-<div class="circle" style="box-sizing: border-box;width: 100%; height: 100%; background-color: transparent; opacity: 1; filter:alpha(opacity=100); background-image: url('//dfsm9194vna0o.cloudfront.net/1070267-0-icon.png'); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"></div>
-</div>
-
-                                      <div
-  class="page-element widget-container page-element-type-text widget-text "
-  id="element-8"
->
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">暗号通信による万全のセキュリティー体制であなたのイーサリウムを保護します。</font></p></div>
+</div>                                      
+<div class="page-element widget-container page-element-type-text widget-text " id="element-8">
+  <div class="contents" style="color: #000000;">
+    <p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">
+      <font color="#71767f">暗号通信による万全のセキュリティー体制であなたのイーサリウムを保護します。</font>
+    </p>
+  </div>
 </div>
 
                                       <div
@@ -1545,41 +1541,21 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
 
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">すぐに購入可能</p></h1></div>
 </div>
-
-                                      <div
-  class="page-element widget-container page-element-type-image widget-image "
-  id="element-70"
->
-
-<div class="contents">
-            <img
-        src="img/yen.png"
-                  style="height: 100%; width: 100%; margin-top: 0px;"
-                alt=""
-      />
-
+  <div class="page-element widget-container page-element-type-image widget-image " id="element-70">
+    <div class="contents">
+      <img src="img/yen.png" style="height: 100%; width: 100%; margin-top: 0px;" alt=""/>
+    </div>
   </div>
-</div>
-
-                                      <div
-  class="page-element widget-container page-element-type-text widget-text "
-  id="element-15"
->
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">24時間365日イーサリウムを購入することができます。</font></p></div>
-</div>
-
-                                      <div
-  class="page-element widget-container page-element-type-image widget-image "
-  id="element-110"
->
-
-<div class="contents">
-            <img
-        src="img/key.png"
-                  style="height: 100%; width: 100%; margin-top: 0px;"
-                alt=""
-      />
-
+  <div class="page-element widget-container page-element-type-text widget-text " id="element-15">
+    <div class="contents" style="color: #000000;">
+      <p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">
+        <font color="#71767f">24時間365日イーサリウムを購入することができます。</font>
+      </p>
+    </div>
+  </div>
+  <div class="page-element widget-container page-element-type-image widget-image " id="element-110">
+  <div class="contents">
+    <img src="img/key.png" style="height: 100%; width: 100%; margin-top: 0px;" alt=""/>
   </div>
 </div>
 
