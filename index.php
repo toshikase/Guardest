@@ -1,13 +1,11 @@
 
 <!DOCTYPE html>
 <html>
-  
   <head>
   <link rel="canonical" href="http://www.ethfy.com">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
 
     <title>日本円でEthereumを購入できる販売所 | Ethfy</title>
           
@@ -20,8 +18,7 @@
     <meta property="og:description" content="日本円で誰でも安全かつ簡単にEthereumを購入できる日本国内に拠点を持つ販売所です。2016年3月末のリリースを予定しております。" />
     <meta property="og:image" content="img/logo.png" />
     <meta property="fb:app_id" content="458674240998394" />
-          
-          <!-- font injector --> 
+
     <link type="text/css" rel="stylesheet" media="screen, print" href="css/css1.css" />
     <link type="text/css" rel="stylesheet" media="screen, print" href="css/css2.css" /><!-- end -->
       <style type="text/css" media="screen">
@@ -75,7 +72,7 @@
           }
         }
 
-        
+
         /* Safari only fix */
         @media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) {
         {
@@ -90,9 +87,9 @@
           }
         }}
 
-        
+
               </style>
-            
+
 <link rel="stylesheet" type="text/css" href="css/css3.css" media="screen"  />
 
 <script type="text/javascript" src="js/js1.js"></script>
@@ -114,7 +111,7 @@
       window.__facebook = false;
       window.__page_type = 2;
       window.__mobile_version = 2;
-      
+
       var page_version = 11;
 
       var _Translate = new Translate();
@@ -126,7 +123,7 @@
 
       ijQuery(document).ready(function()
       {
-        
+
         try
         {
           ijQuery('input, textarea').placeholder();
@@ -158,15 +155,15 @@
       }
     </script>
 
-    
-        
+
+
     <link
       rel="shortcut icon"
       href="//instapage-static.s3.amazonaws.com/favicon.ico"
       type="image/ico"
     />
 
-          
+
             <style type="text/css">
         html
         {
@@ -191,30 +188,30 @@
           }
         }, 1 );
       </script>
-      
+
       <style type="text/css">
         body
         {
           background-color: #ffffff;
-          
+
                                     background-position: top left;
-                      
+
           background-repeat: repeat;
                                     background-size: cover;
                           -webkit-background-size: cover;
                           -moz-background-size: cover;
                           -o-background-size: cover;
-                      
+
         }
 
-        
+
         .page .page-block .block-inner { background-color: transparent; }
       </style>
-    
+
     <style type="text/css">
-      
-  
-#element-1  
+
+
+#element-1
 {
   height: 91px;
   width: 959px;
@@ -223,15 +220,15 @@
   z-index: 3;
 }
 
-#element-1 p, #element-1 ul, #element-1 ol, #element-1 h1 
+#element-1 p, #element-1 ul, #element-1 ol, #element-1 h1
 {
   font-size: 65px;
   color: rgb(13, 56, 110);
   line-height: 91px;
   text-align: center;
 }
-  
-#element-3  
+
+#element-3
 {
   height: 125px;
   width: 125px;
@@ -239,8 +236,8 @@
   top: 199px;
   z-index: 4;
 }
-  
-#element-4  
+
+#element-4
 {
   height: 39px;
   width: 252px;
@@ -249,15 +246,15 @@
   z-index: 5;
 }
 
-#element-4 p, #element-4 ul, #element-4 ol, #element-4 h1 
+#element-4 p, #element-4 ul, #element-4 ol, #element-4 h1
 {
   font-size: 28px;
   color: rgb(67, 70, 76);
   line-height: 39px;
   text-align: center;
 }
-  
-#element-5  
+
+#element-5
 {
   height: 52px;
   width: 260px;
@@ -266,14 +263,14 @@
   z-index: 6;
 }
 
-#element-5 p, #element-5 ul, #element-5 ol, #element-5 h1 
+#element-5 p, #element-5 ul, #element-5 ol, #element-5 h1
 {
   font-size: 16px;
   line-height: 26px;
   text-align: center;
 }
-  
-#element-7  
+
+#element-7
 {
   height: 39px;
   width: 236px;
@@ -282,15 +279,15 @@
   z-index: 7;
 }
 
-#element-7 p, #element-7 ul, #element-7 ol, #element-7 h1 
+#element-7 p, #element-7 ul, #element-7 ol, #element-7 h1
 {
   font-size: 28px;
   color: rgb(0, 0, 0);
   line-height: 39px;
   text-align: center;
 }
-  
-#element-8  
+
+#element-8
 {
   height: 52px;
   width: 288px;
@@ -299,15 +296,15 @@
   z-index: 8;
 }
 
-#element-8 p, #element-8 ul, #element-8 ol, #element-8 h1 
+#element-8 p, #element-8 ul, #element-8 ol, #element-8 h1
 {
   font-size: 16px;
   color: rgb(0, 0, 0);
   line-height: 26px;
   text-align: center;
 }
-  
-#element-14  
+
+#element-14
 {
   height: 39px;
   width: 221px;
@@ -316,15 +313,15 @@
   z-index: 9;
 }
 
-#element-14 p, #element-14 ul, #element-14 ol, #element-14 h1 
+#element-14 p, #element-14 ul, #element-14 ol, #element-14 h1
 {
   font-size: 28px;
   color: rgb(67, 70, 76);
   line-height: 39px;
   text-align: center;
 }
-  
-#element-15  
+
+#element-15
 {
   height: 52px;
   width: 254px;
@@ -333,14 +330,14 @@
   z-index: 10;
 }
 
-#element-15 p, #element-15 ul, #element-15 ol, #element-15 h1 
+#element-15 p, #element-15 ul, #element-15 ol, #element-15 h1
 {
   font-size: 16px;
   line-height: 26px;
   text-align: center;
 }
-  
-#element-31  
+
+#element-31
 {
   height: 63px;
   width: 225px;
@@ -348,8 +345,8 @@
   top: 501px;
   z-index: 11;
 }
-  
-#element-35  
+
+#element-35
 {
   height: 125px;
   width: 125px;
@@ -357,8 +354,8 @@
   top: 200px;
   z-index: 12;
 }
-  
-#element-36  
+
+#element-36
 {
   height: 125px;
   width: 125px;
@@ -366,8 +363,8 @@
   top: 205px;
   z-index: 13;
 }
-  
-#element-649  
+
+#element-649
 {
   height: 56px;
   width: 382px;
@@ -376,15 +373,15 @@
   z-index: 14;
 }
 
-#element-649 p, #element-649 ul, #element-649 ol, #element-649 h1 
+#element-649 p, #element-649 ul, #element-649 ol, #element-649 h1
 {
   font-size: 40px;
   color: rgb(0, 0, 0);
   line-height: 56px;
   text-align: center;
 }
-  
-#element-70  
+
+#element-70
 {
   height: 53px;
   width: 53px;
@@ -392,8 +389,8 @@
   top: 235px;
   z-index: 15;
 }
-  
-#element-72  
+
+#element-72
 {
   height: 51px;
   width: 57px;
@@ -401,8 +398,8 @@
   top: 236px;
   z-index: 16;
 }
-  
-#element-110  
+
+#element-110
 {
   height: 61px;
   width: 43px;
@@ -410,8 +407,8 @@
   top: 236px;
   z-index: 17;
 }
-  
-#element-111  
+
+#element-111
 {
   height: 81px;
   width: 763px;
@@ -420,15 +417,15 @@
   z-index: 18;
 }
 
-#element-111 p, #element-111 ul, #element-111 ol, #element-111 h1 
+#element-111 p, #element-111 ul, #element-111 ol, #element-111 h1
 {
   font-size: 17px;
   color: rgb(255, 255, 255);
   line-height: 27px;
   text-align: center;
 }
-  
-#element-260  
+
+#element-260
 {
   height: 39px;
   width: 671px;
@@ -437,15 +434,15 @@
   z-index: 19;
 }
 
-#element-260 p, #element-260 ul, #element-260 ol, #element-260 h1 
+#element-260 p, #element-260 ul, #element-260 ol, #element-260 h1
 {
   font-size: 28px;
   color: rgb(13, 56, 110);
   line-height: 39px;
   text-align: center;
 }
-  
-#element-285  
+
+#element-285
 {
   height: 56px;
   width: 178px;
@@ -454,15 +451,15 @@
   z-index: 20;
 }
 
-#element-285 p, #element-285 ul, #element-285 ol, #element-285 h1 
+#element-285 p, #element-285 ul, #element-285 ol, #element-285 h1
 {
   font-size: 40px;
   color: rgb(255, 255, 255);
   line-height: 56px;
   text-align: center;
 }
-  
-#element-416  
+
+#element-416
 {
   height: 21px;
   width: 300px;
@@ -471,15 +468,15 @@
   z-index: 21;
 }
 
-#element-416 p, #element-416 ul, #element-416 ol, #element-416 h1 
+#element-416 p, #element-416 ul, #element-416 ol, #element-416 h1
 {
   font-size: 15px;
   color: rgb(113, 118, 127);
   line-height: 21px;
   text-align: center;
 }
-  
-#element-644  
+
+#element-644
 {
   height: 57px;
   width: 370px;
@@ -488,23 +485,23 @@
   z-index: 22;
 }
 
-#element-644 p, #element-644 ul, #element-644 ol, #element-644 h1 
+#element-644 p, #element-644 ul, #element-644 ol, #element-644 h1
 {
   font-size: 41px;
   color: rgb(13, 56, 110);
   line-height: 57px;
   text-align: center;
 }
-  
-#element-650  
+
+#element-650
 {
   height: 59px;
   width: 300px;
   left: 269px;
   top: 258px;
 }
-  
-#element-656  
+
+#element-656
 {
   height: 22px;
   width: 922px;
@@ -513,7 +510,7 @@
   z-index: 24;
 }
 
-#element-656 p, #element-656 ul, #element-656 ol, #element-656 h1 
+#element-656 p, #element-656 ul, #element-656 ol, #element-656 h1
 {
   font-size: 16px;
   color: rgb(255, 255, 255);
@@ -521,29 +518,29 @@
   text-align: left;
 }
 
-      
+
 #page-block-4kj2jw10mzyf1or { height: 91px; }
 
 #page-block-4kj2jw10mzyf1or .border-holder
 {
       background-image: none;
-  
+
       background-color: #ffffff;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 91px;
 
     /* */
@@ -554,29 +551,29 @@
     margin-top: 0px;
       }
 
-      
+
 #page_block_header { height: 660px; }
 
 #page_block_header .border-holder
 {
       background-image: url(img/background.png);
-  
+
       background-color: transparent;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 660px;
 
     /* */
@@ -587,29 +584,29 @@
     margin-top: 0px;
       }
 
-      
+
 #page_block_below_fold { height: 575px; }
 
 #page_block_below_fold .border-holder
 {
       background-image: none;
-  
+
       background-color: #f6f6f6;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 575px;
 
     /* */
@@ -620,29 +617,29 @@
     margin-top: 0px;
       }
 
-      
+
 #page-block-np5k4qk9pt1q0k9 { height: 429px; }
 
 #page-block-np5k4qk9pt1q0k9 .border-holder
 {
       background-image: url(img/desk.jpg);
-  
+
       background-color: transparent;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 429px;
 
     /* */
@@ -653,29 +650,29 @@
     margin-top: 0px;
       }
 
-      
+
 #page-block-inrtekgw14rysyvi { height: 72px; }
 
 #page-block-inrtekgw14rysyvi .border-holder
 {
       background-image: none;
-  
+
       background-color: transparent;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 72px;
 
     /* */
@@ -686,7 +683,7 @@
     margin-top: 0px;
       }
 
-  
+
 @media
 screen and (max-width: 620px),
 screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( max-device-width: 1280px ) and (max-device-height: 720px),
@@ -803,8 +800,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
     height: 56px;
   }
 
-            
-#element-1  
+
+#element-1
 {
   height: 54px;
   width: 378px;
@@ -813,15 +810,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 3;
 }
 
-#element-1 p, #element-1 ul, #element-1 ol, #element-1 h1 
+#element-1 p, #element-1 ul, #element-1 ol, #element-1 h1
 {
   font-size: 41px;
   color: rgb(13, 56, 110);
   line-height: 54px;
   text-align: center !important;
 }
-          
-#element-3  
+
+#element-3
 {
   height: 125px;
   width: 125px;
@@ -829,8 +826,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   top: 151px;
   z-index: 4;
 }
-          
-#element-4  
+
+#element-4
 {
   height: 32px;
   width: 252px;
@@ -839,15 +836,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 5;
 }
 
-#element-4 p, #element-4 ul, #element-4 ol, #element-4 h1 
+#element-4 p, #element-4 ul, #element-4 ol, #element-4 h1
 {
   font-size: 28px;
   color: rgb(67, 70, 76);
   line-height: 32px;
   text-align: center !important;
 }
-          
-#element-5  
+
+#element-5
 {
   height: 52px;
   width: 331px;
@@ -856,14 +853,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 6;
 }
 
-#element-5 p, #element-5 ul, #element-5 ol, #element-5 h1 
+#element-5 p, #element-5 ul, #element-5 ol, #element-5 h1
 {
   font-size: 16px;
   line-height: 26px;
   text-align: center !important;
 }
-          
-#element-7  
+
+#element-7
 {
   height: 32px;
   width: 239px;
@@ -872,15 +869,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 7;
 }
 
-#element-7 p, #element-7 ul, #element-7 ol, #element-7 h1 
+#element-7 p, #element-7 ul, #element-7 ol, #element-7 h1
 {
   font-size: 28px;
   color: rgb(0, 0, 0);
   line-height: 32px;
   text-align: center !important;
 }
-          
-#element-8  
+
+#element-8
 {
   height: 52px;
   width: 309px;
@@ -889,15 +886,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 8;
 }
 
-#element-8 p, #element-8 ul, #element-8 ol, #element-8 h1 
+#element-8 p, #element-8 ul, #element-8 ol, #element-8 h1
 {
   font-size: 16px;
   color: rgb(0, 0, 0);
   line-height: 26px;
   text-align: center !important;
 }
-          
-#element-14  
+
+#element-14
 {
   height: 32px;
   width: 226px;
@@ -906,15 +903,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 9;
 }
 
-#element-14 p, #element-14 ul, #element-14 ol, #element-14 h1 
+#element-14 p, #element-14 ul, #element-14 ol, #element-14 h1
 {
   font-size: 28px;
   color: rgb(67, 70, 76);
   line-height: 32px;
   text-align: left !important;
 }
-          
-#element-15  
+
+#element-15
 {
   height: 52px;
   width: 326px;
@@ -923,14 +920,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 10;
 }
 
-#element-15 p, #element-15 ul, #element-15 ol, #element-15 h1 
+#element-15 p, #element-15 ul, #element-15 ol, #element-15 h1
 {
   font-size: 16px;
   line-height: 26px;
   text-align: center !important;
 }
-          
-#element-31  
+
+#element-31
 {
   height: 61px;
   width: 351px;
@@ -938,8 +935,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   top: 416px;
   z-index: 11;
 }
-          
-#element-35  
+
+#element-35
 {
   height: 125px;
   width: 125px;
@@ -947,13 +944,13 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   top: 456px;
   z-index: 12;
 }
-          
-#element-36  
+
+#element-36
 {
   display: none;
 }
-          
-#element-649  
+
+#element-649
 {
   height: 35px;
   width: 370px;
@@ -962,15 +959,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 14;
 }
 
-#element-649 p, #element-649 ul, #element-649 ol, #element-649 h1 
+#element-649 p, #element-649 ul, #element-649 ol, #element-649 h1
 {
   font-size: 27px;
   color: rgb(0, 0, 0);
   line-height: 35px;
   text-align: center !important;
 }
-          
-#element-70  
+
+#element-70
 {
   height: 52px;
   width: 52px;
@@ -978,8 +975,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   top: 187px;
   z-index: 15;
 }
-          
-#element-72  
+
+#element-72
 {
   height: 51px;
   width: 57px;
@@ -987,8 +984,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   top: 491px;
   z-index: 16;
 }
-          
-#element-110  
+
+#element-110
 {
   height: 61px;
   width: 43px;
@@ -996,16 +993,16 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   top: 818px;
   z-index: 17;
 }
-          
-#element-650  
+
+#element-650
 {
   height: 72px;
   width: 300px;
   left: 50px;
   top: 347px;
 }
-          
-#element-111  
+
+#element-111
 {
   height: 182px;
   width: 333px;
@@ -1014,15 +1011,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 18;
 }
 
-#element-111 p, #element-111 ul, #element-111 ol, #element-111 h1 
+#element-111 p, #element-111 ul, #element-111 ol, #element-111 h1
 {
   font-size: 16px;
   color: rgb(255, 255, 255);
   line-height: 26px;
   text-align: left !important;
 }
-          
-#element-260  
+
+#element-260
 {
   height: 27px;
   width: 358px;
@@ -1031,15 +1028,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 19;
 }
 
-#element-260 p, #element-260 ul, #element-260 ol, #element-260 h1 
+#element-260 p, #element-260 ul, #element-260 ol, #element-260 h1
 {
   font-size: 17px;
   color: rgb(13, 56, 110);
   line-height: 27px;
   text-align: center !important;
 }
-          
-#element-285  
+
+#element-285
 {
   height: 52px;
   width: 194px;
@@ -1048,15 +1045,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 20;
 }
 
-#element-285 p, #element-285 ul, #element-285 ol, #element-285 h1 
+#element-285 p, #element-285 ul, #element-285 ol, #element-285 h1
 {
   font-size: 40px;
   color: rgb(255, 255, 255);
   line-height: 52px;
   text-align: center !important;
 }
-          
-#element-416  
+
+#element-416
 {
   height: 19px;
   width: 300px;
@@ -1065,15 +1062,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 21;
 }
 
-#element-416 p, #element-416 ul, #element-416 ol, #element-416 h1 
+#element-416 p, #element-416 ul, #element-416 ol, #element-416 h1
 {
   font-size: 15px;
   color: rgb(113, 118, 127);
   line-height: 19px;
   text-align: center;
 }
-          
-#element-644  
+
+#element-644
 {
   height: 35px;
   width: 370px;
@@ -1082,15 +1079,15 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 22;
 }
 
-#element-644 p, #element-644 ul, #element-644 ol, #element-644 h1 
+#element-644 p, #element-644 ul, #element-644 ol, #element-644 h1
 {
   font-size: 28px;
   color: rgb(13, 56, 110);
   line-height: 35px;
   text-align: center;
 }
-          
-#element-656  
+
+#element-656
 {
   height: 57px;
   width: 370px;
@@ -1099,37 +1096,37 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
   z-index: 24;
 }
 
-#element-656 p, #element-656 ul, #element-656 ol, #element-656 h1 
+#element-656 p, #element-656 ul, #element-656 ol, #element-656 h1
 {
   font-size: 16px;
   color: rgb(255, 255, 255);
   line-height: 19px;
   text-align: left;
 }
-      
-            
+
+
 #page-block-4kj2jw10mzyf1or { height: 72px; }
 
 #page-block-4kj2jw10mzyf1or .border-holder
 {
       background-image: none;
-  
+
       background-color: #ffffff;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 72px;
 
     /* */
@@ -1140,28 +1137,28 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
     margin-top: 0px;
       }
 
-          
+
 #page_block_header { height: 597px; }
 
 #page_block_header .border-holder
 {
       background-image: url(//storage.googleapis.com/instapage-user-media/3decfab1/1765823-0-background-73.png);
-  
+
       background-color: transparent;
-  
+
   background-repeat: repeat;            background-position: left center;
-      
+
                     background-size:auto auto;
               -webkit-background-size:auto auto;
               -moz-background-size:auto auto;
               -o-background-size:auto auto;
-            
-    
+
+
     width: 400px;
     margin: 0 auto;
     border-width: 0px;
 
-  
+
   height: 597px;
 
     /* */
@@ -1173,29 +1170,29 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
           margin-left: 0px;
       }
 
-          
+
 #page_block_below_fold { height: 1096px; }
 
 #page_block_below_fold .border-holder
 {
       background-image: none;
-  
+
       background-color: #f4f4f4;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 1096px;
 
     /* */
@@ -1206,29 +1203,29 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
     margin-top: 0px;
       }
 
-          
+
 #page-block-np5k4qk9pt1q0k9 { height: 562px; }
 
 #page-block-np5k4qk9pt1q0k9 .border-holder
 {
       background-image: url(//dfsm9194vna0o.cloudfront.net/1233876-0-desk.jpg);
-  
+
       background-color: transparent;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 562px;
 
     /* */
@@ -1239,29 +1236,29 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
     margin-top: 0px;
       }
 
-          
+
 #page-block-inrtekgw14rysyvi { height: 72px; }
 
 #page-block-inrtekgw14rysyvi .border-holder
 {
       background-image: none;
-  
+
       background-color: transparent;
-  
+
   background-repeat: repeat;            background-position: top left;
-      
+
                     background-size:cover;
               -webkit-background-size:cover;
               -moz-background-size:cover;
               -o-background-size:cover;
-            
-    
+
+
     width: auto;
     border-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
 
-  
+
   height: 72px;
 
     /* */
@@ -1334,7 +1331,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
 
                   <style>
     .btn submit-button button_submit dynamic-button{
-        
+
     }
 </style>          
 
@@ -1348,15 +1345,13 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   ga('send', 'pageview');
 
 </script>
-    
-        
-                            
+
   </head>
 
-  
+
   <body class=" new_mobile">
-    
-    
+
+
         <div class="page page2 ">
       <div class="notification">
         <div class="notification-overlay"></div>
@@ -1374,7 +1369,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-644"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><b>Ethfy</b></p></h1></div>
 </div>
 
@@ -1388,7 +1383,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-1"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  " class=""><font class="">Etherを1クリックで</font></p></h1></div>
 </div>
 
@@ -1402,16 +1397,16 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
     background-color: #;
 
           color: #ffffff;
-    
-    box-sizing: border-box;border: 2px solid #ffffff;   
+
+    box-sizing: border-box;border: 2px solid #ffffff;
       }
 
   #element-31 .dynamic-button:active
   {
       }
 
-  
-  
+
+
   #element-31 .dynamic-button, #element-31 .image-button
   {
     width: 225px;
@@ -1436,7 +1431,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
         font-size: 20px;
       }
     }
-  
+
   </style>
 <div class="conversion_wrapper">
   <a
@@ -1445,7 +1440,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
         style="width: 225px; height: 63px;"
         data-wid="31"
   >
-    
+
       <div
         class="btn submit-button button_submit dynamic-button  corners  "
       >詳しく知る</div>
@@ -1470,7 +1465,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-circle widget-circle "
   id="element-35"
 >
-  
+
 <div class="circle" style="box-sizing: border-box;width: 100%; height: 100%; background-color: transparent; opacity: 1; filter:alpha(opacity=100); background-image: url('//dfsm9194vna0o.cloudfront.net/1070267-0-icon.png'); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"></div>
 </div>
 
@@ -1478,7 +1473,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-4"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><em class="scribe-marker"></em>日本円で直接購入<em class="scribe-marker"></em></p></h1></div>
 </div>
 
@@ -1486,14 +1481,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-image widget-image "
   id="element-72"
 >
-  
+
 <div class="contents">
             <img
         src="img/exchange.png"
                   style="height: 100%; width: 100%; margin-top: 0px;"
                 alt=""
       />
-    
+
   </div>
 </div>
 
@@ -1501,14 +1496,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-text widget-text "
   id="element-5"
 >
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 1</font></p></div>
+  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">日本円からイーサリウムの購入ができます。もうビットコインを間に挟む必要はありません。</font></p></div>
 </div>
 
                                       <div
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-649"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">Ethfyについて</p></h1></div>
 </div>
 
@@ -1516,7 +1511,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-7"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#43464c">セキュリティ万全</font></p></h1></div>
 </div>
 
@@ -1524,7 +1519,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-circle widget-circle "
   id="element-3"
 >
-  
+
 <div class="circle" style="box-sizing: border-box;width: 100%; height: 100%; background-color: transparent; opacity: 1; filter:alpha(opacity=100); background-image: url('//dfsm9194vna0o.cloudfront.net/1070267-0-icon.png'); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"></div>
 </div>
 
@@ -1532,14 +1527,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-text widget-text "
   id="element-8"
 >
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 3</font></p></div>
+  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">暗号通信による万全のセキュリティー体制であなたのイーサリウムを保護します。</font></p></div>
 </div>
 
                                       <div
   class="page-element widget-container page-element-type-circle widget-circle "
   id="element-36"
 >
-  
+
 <div class="circle" style="box-sizing: border-box;width: 100%; height: 100%; background-color: transparent; opacity: 1; filter:alpha(opacity=100); background-image: url('//dfsm9194vna0o.cloudfront.net/1070267-0-icon.png'); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"></div>
 </div>
 
@@ -1547,7 +1542,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-14"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">すぐに購入可能</p></h1></div>
 </div>
 
@@ -1555,14 +1550,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-image widget-image "
   id="element-70"
 >
-  
+
 <div class="contents">
             <img
         src="img/dollar.png"
                   style="height: 100%; width: 100%; margin-top: 0px;"
                 alt=""
       />
-    
+
   </div>
 </div>
 
@@ -1570,21 +1565,21 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-text widget-text "
   id="element-15"
 >
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 2</font></p></div>
+  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">24時間365日イーサリウムを購入することができます。</font></p></div>
 </div>
 
                                       <div
   class="page-element widget-container page-element-type-image widget-image "
   id="element-110"
 >
-  
+
 <div class="contents">
             <img
         src="img/key.png"
                   style="height: 100%; width: 100%; margin-top: 0px;"
                 alt=""
       />
-    
+
   </div>
 </div>
 
@@ -1604,8 +1599,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
     background-color: #0066cc;
 
           color: #ffffff;
-        
-        
+
+
       }
 
   #element-650 .submit-button:active
@@ -1687,12 +1682,12 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
       #element-650 select
     {
       color: #000000    }
-  
+
       #element-650 select option
     {
       background-color: #ffffff;
     }
-  
+
   #element-650 select
   {
     border-color: #555555;
@@ -1703,7 +1698,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
     {
       background-color: #0066cc;
     }
-  
+
           #element-650 .submit-holder
     {
       position: relative;
@@ -1741,8 +1736,8 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
           font-size: 15px;
         }
       }
-    
-  
+
+
   </style>
 
 <div class="widget-container widget-form">
@@ -1754,11 +1749,11 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
       </div>
       <input type="hidden" name="variant" value="A" />
 
-      
-            
+
+
               <div class="input-holder field-text">
-          
-                      
+
+
             <div class="field-element ">
               <input
                 id="99641bbfc4d7b30a2bebcffdb63f40a8-0"
@@ -1771,14 +1766,14 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
               />
             </div>
                   </div>
-      
-      
-      
-                                                                                                                                                                                                                        
+
+
+
+
                         <button
             class="btn submit-button button_submit dynamic-button  corners  "
           >登録</button>
-      
+
     </form>
   </div>
   <div style="clear: both"></div>
@@ -1796,7 +1791,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-headline widget-headline "
   id="element-285"
 >
-  
+
 <div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><em class="scribe-marker"></em>事前登録<em class="scribe-marker"></em></p></h1></div>
 </div>
 
@@ -1825,10 +1820,10 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
           </div>
                   </div>
 
-    
-    
+
+
     <div id="fb-root"></div>
-    
+
     <!-- visitor pixel --><script type="text/javascript" class="instapage-noscrap">
   window.__conversions_settings = {"forms":true,"links":["http:\/\/www.instapage.com","https:\/\/instapage.com\/pricing"],"external":false};
   function iCopyKeenEvent( name, properties )
@@ -1921,13 +1916,13 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   <img href="//api.keen.io/3.0/projects/5695077c46f9a7711a91f9f7/events/visit?api_key=c3502fe7a707ef887b03c47ab3bf60a5cd8ae3da1b46e959f71328ba5bf8f30e6372c1769242b1fc7f5eb3a7b01c77975dd25b7717cd89e848d6651074b8cc037af31d533fed549b209fb6105223b6d57d6435ab0598069b21e12805b60226afa83ebf2de89ba5b00d32c5cb6384d81bdd7032ef28ef3eb9c0b3fd1a9ea47eb3059b6683793bda526b0e5ba5a8d0436e&data=eyJ1c2VyX2lkIjozNTE1ODcsInBhZ2VfaWQiOjgxMzI0NywicHVibGlzaGVkX3ZlcnNpb24iOjExLCJxdWFudGl0eSI6MSwic3RhdGljX3BhZ2UiOmZhbHNlLCJ2YXJpYXRpb25fbmFtZSI6IkEiLCJ2YXJpYXRpb25faWQiOjEsImxpbmtlZF92YXJpYXRpb25faWQiOjIsImluaXRpYWxfcmVzcG9uc2l2ZV9tb2RlIjpudWxsLCJ2aXNpdG9yX2lwIjoiMTI0LjM1LjgzLjE2MiIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMV8zKSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC80OC4wLjI1NjQuMTAzIFNhZmFyaVwvNTM3LjM2IiwiZ2VuZXJhdGlvbl90aW1lIjoyNH0=" >
 </noscript>
 <!-- end -->
-    
-    
-    
+
+
+
           <iframe class="instapage-noscrap" src="//d3mwhxgzltpnyp.cloudfront.net/local-storage/index.html" name="instapage-local-storage" height="0px" width="0px" style="display: block;"></iframe>
   <iframe class="instapage-noscrap" src="//instapage.com/storage/index.html" name="instapage-local-storage2" height="0px" width="0px" style="display: block;"></iframe>
-    
-        
-        
+
+
+
       </body>
 </html>
