@@ -19,7 +19,7 @@
     <meta property="og:title" content="Ether1" />
     <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. 1" />
     <meta property="og:site_name" content="Ether1" />
-           <meta property="og:url" content="http://ethbank2.instapage.com" />
+           <meta property="og:url" content="http://Ethfy2.instapage.com" />
     
                   
         <meta property="og:image" content="http://dfsm9194vna0o.cloudfront.net/1110628-0-icon1.png" />
@@ -117,7 +117,7 @@
       window.__page_id = 813247;
       window.__version = 11;
       window.__variant = 'A';
-      window.__page_domain = '//ethbank2.instapage.com';
+      window.__page_domain = '//Ethfy2.instapage.com';
       window.__instapage_services = '//app.instapage.com';
       window.__instapage_proxy_services = 'PROXY_SERVICES';
       window.__preview = false;
@@ -1374,7 +1374,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   id="element-644"
 >
   
-<div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><b>Ethbank</b></p></h1></div>
+<div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><b>Ethfy</b></p></h1></div>
 </div>
 
                                                 </div>
@@ -1508,7 +1508,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   id="element-649"
 >
   
-<div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">EthBankについて</p></h1></div>
+<div class="contents" style="color: #000000;"><h1><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">Ethfyについて</p></h1></div>
 </div>
 
                                       <div
@@ -1746,7 +1746,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
 
 <div class="widget-container widget-form">
   <div class="contents">
-    <form method="post" action="https://app.instapage.com/api/email/813247" class="email-form" data="instapage-form" data-wid="650">
+    <form method="post" action="mail.php" class="email-form" data="instapage-form" data-wid="650">
       <div class="email-form-messagebox-wrapper" >
         <div class="email-form-messagebox-header"></div>
         <div class="email-form-messagebox"></div>
@@ -1762,7 +1762,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
               <input
                 id="99641bbfc4d7b30a2bebcffdb63f40a8-0"
                 type="email"
-                name="RW1haWw="
+                name="email"
                 value=""
                                   placeholder="Email"
                   data-label-inside="Email"
@@ -1777,10 +1777,6 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
                         <button
             class="btn submit-button button_submit dynamic-button  corners  "
           >登録</button>
-              
-              <input type="hidden" name="validation" value="Tzo4OiJzdGRDbGFzcyI6Mjp7czo2OiJmaWVsZHMiO2E6MTp7czo1OiJFbWFpbCI7Tzo4OiJzdGRDbGFzcyI6MTp7czo4OiJyZXF1aXJlZCI7YjoxO319czo3OiJmb3JtX2lkIjtzOjMyOiI5OTY0MWJiZmM0ZDdiMzBhMmJlYmNmZmRiNjNmNDBhOCI7fQ==" />
-      
-                      <input type="hidden" name="thank-you-message" value="VGhhbmsgWW91IQ==" />
       
     </form>
   </div>
@@ -1792,7 +1788,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-text widget-text "
   id="element-111"
 >
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">EthBankは2016年3月末のリリースを予定しております。</p><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">サービスのリリース情報をいち早く知りたい方は下記にご登録ください。</p></div>
+  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">Ethfyは2016年3月末のリリースを予定しております。</p><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  ">サービスのリリース情報をいち早く知りたい方は下記にご登録ください。</p></div>
 </div>
 
                                       <div
@@ -1820,7 +1816,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-text widget-text "
   id="element-416"
 >
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">© 2016 EthBank<em class="scribe-marker"></em></font></p></div>
+  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">© 2016 Ethfy<em class="scribe-marker"></em></font></p></div>
 </div>
 
                                                 </div>
