@@ -1812,7 +1812,7 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5)
   class="page-element widget-container page-element-type-text widget-text "
   id="element-416"
 >
-  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">© 2016 Ethfy<em class="scribe-marker"></em></font></p></div>
+  <div class="contents" style="color: #000000;"><p draggable="false" ondragstart="return false" ondragenter="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondragover="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" ondrop="event.dataTransfer.dropEffect='none'; event.stopPropagation(); event.preventDefault();" style="text-align: center;  "><font color="#71767f">Copyright © Ethfy 2016<em class="scribe-marker"></em></font></p></div>
 </div>
 
                                                 </div>
